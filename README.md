@@ -1,21 +1,39 @@
-Hello everyone, my name is Sergio, I'm 27 years old.
+Hello everyone 👋, my name is Sergio, I'm 27 years old.
 <br>
 I'm a freelance full stack developer who creates projects for specific clients seeking technological development and customer prospecting.
 <br>
 <br>
 <br>
 
-{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  aligh-items: center;}
+### Connect with me: 
+
+<p>
+<a href="https://www.instagram.com/sergioliveiradev/">
+<img align="left" alt="icone do instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sergioliveira-developer/">
+<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br/>
+<br/>
+  Languages and Tools:
+</p>
+<br/>
+
+[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergioliveira-developer&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+<br/>
+<br/>
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioliveira-developer&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 
-<img width:50px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
-<img width:50px src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
-<img width:50px src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
-<img width:50px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
-<img width:50px src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node">
-<img width:50px src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-<img width:50px src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="logo-express">
