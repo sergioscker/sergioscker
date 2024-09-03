@@ -1,9 +1,12 @@
-Hello everyone 👋, my name is Sergio, I'm 27 years old.
-<br>
-I'm a freelance full stack developer who creates projects for specific clients seeking technological development and customer prospecting.
-<br>
-<br>
-<br>
+Hello, my name is Sérgio Oliveira, and I’m a technology enthusiast at the beginning of my career as a Software Developer. Although I’m still taking my first steps in this field, my passion for learning and overcoming challenges drives me every day.
+
+Recently, I started exploring the world of web development, focusing on JavaScript, React.js, and Node.js. I’m constantly seeking new knowledge and love diving into projects that push me out of my comfort zone because I believe that it’s through challenges that we truly grow and become better professionals.
+
+Over the past few months, I’ve developed some projects on GitHub that have helped me put into practice the concepts I’ve been studying. One of them was my personal portfolio, where I wrote all the code using ReactJS, demonstrating my ability to build modern and responsive interfaces. In my most recent project, I explored a more complex design, also developed with ReactJS and Styled Components, focusing on component reuse and making them more interactive and dynamic.
+
+I’m driven by curiosity and have a strong appetite for learning. I’m always studying and staying up-to-date with industry trends and best practices. My goal is to build a solid foundation in my career, actively contributing to the development of innovative and impactful digital products.
+
+Although I’m just starting out, I’m highly motivated to collaborate with teams that provide growth opportunities and help me develop my skills. I’m ready to face the challenges of the industry and learn as much as possible along the way.
 
 ### Connect with me: 
 
@@ -14,16 +17,16 @@ I'm a freelance full stack developer who creates projects for specific clients s
 <a href="https://www.linkedin.com/in/sergioliveira-developer/">
 <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</p>
+
 <br/>
 <br/>
-  Languages and Tools:
-</p>
+  
+
+### Languages and Tools:
+
+
 <br/>
 
-[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergioliveira-developer&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-<br/>
-<br/>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
