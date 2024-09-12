@@ -37,6 +37,6 @@ Although I’m just starting out, I’m highly motivated to collaborate with tea
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioliveira-developer&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioscker&layout=compact&show_icons=true&theme=buefy)]([https://www.linkedin.com/in/sergioliveiira/github-readme-stats])
 
 
