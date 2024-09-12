@@ -14,7 +14,7 @@ Although I’m just starting out, I’m highly motivated to collaborate with tea
 <a href="https://www.instagram.com/sergioliveiraffc/">
 <img align="left" alt="icone do instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sergioliveira-developer/">
+<a href="https://www.linkedin.com/in/sergioliveiira">
 <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
