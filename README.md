@@ -1,43 +1,68 @@
-Hello, my name is Sérgio Oliveira, and I’m a technology enthusiast at the beginning of my career as a Software Developer. Although I’m still taking my first steps in this field, my passion for learning and overcoming challenges drives me every day.
+# Hello, I’m Sérgio Oliveira 👋  
 
-Recently, I started exploring the world of web development, focusing on JavaScript, React.js, and Node.js. I’m constantly seeking new knowledge and love diving into projects that push me out of my comfort zone because I believe that it’s through challenges that we truly grow and become better professionals.
+I’m a **Frontend Developer** currently living in **Portugal**, with a strong passion for technology, learning, and creating impactful digital solutions. My journey in web development began with JavaScript, and over time, I’ve expanded my skills to include modern tools and frameworks that help me build efficient and scalable applications.  
 
-Over the past few months, I’ve developed some projects on GitHub that have helped me put into practice the concepts I’ve been studying. One of them was my personal portfolio, where I wrote all the code using ReactJS, demonstrating my ability to build modern and responsive interfaces. In my most recent project, I explored a more complex design, also developed with ReactJS and Styled Components, focusing on component reuse and making them more interactive and dynamic.
+I love doing different activities throughout the day and feeling like my time was well spent. My proactive attitude and curiosity fuel my growth, allowing me to embrace new challenges and consistently improve.  
 
-I’m driven by curiosity and have a strong appetite for learning. I’m always studying and staying up-to-date with industry trends and best practices. My goal is to build a solid foundation in my career, actively contributing to the development of innovative and impactful digital products.
+### 🌱 **What I’ve Been Working On**  
 
-Although I’m just starting out, I’m highly motivated to collaborate with teams that provide growth opportunities and help me develop my skills. I’m ready to face the challenges of the industry and learn as much as possible along the way.
+Over the past year, I’ve worked on more than **10 projects** and made close to **200 commits**, deploying solutions using platforms like **Vercel** and **AWS**. Some key highlights include:  
 
-### Connect with me: 
+- **ReactJS**: Building dynamic and responsive user interfaces.  
+- **Next.js**: Creating modern, scalable, and SEO-friendly web applications.  
+- **TailwindCSS**: Rapidly styling applications with utility-first CSS.  
+- **Vite**: Enhancing development speed with a faster build process.  
+- **TypeScript**: Writing scalable, type-safe code.  
+- **Styled-Components**: Designing reusable and maintainable UI components.  
 
-<p>
-<a href="https://www.instagram.com/sergioliveiraffc/">
-<img align="left" color="#fff" alt="icone do instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sergioliveiira">
-<img align="left" color="#fff" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+I focus heavily on **Clean Coding** principles, organizing my code for maintainability and scalability. For example, I ensure modularity by separating concerns, like maintaining specific files for project colors, custom hooks, and reusable components.  
 
-<br/>
-<br/>
-  
+---
 
-### Languages and Tools:
+### 💡 **What Drives Me**  
+
+I’m deeply curious and constantly seek opportunities to grow. I believe that **knowledge is the key** to solving complex problems and overcoming challenges. Collaboration is essential in my workflow, and I value clear communication and transparency to foster trust within my team. This approach helps me create an environment where I can both support my colleagues and rely on them when needed.  
+
+My ultimate goal is to contribute to innovative, large-scale digital solutions while learning from experienced professionals and helping teams grow.  
+
+---
+
+### 🛠️ **Technologies & Tools**  
+
+Here are some of the tools and technologies I’ve been working with recently:  
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
+</p>
 
 
-<br/>
 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+---
 
-<br/>
-<br/>
+### 📫 **Let’s Connect**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioscker&layout=compact&show_icons=true&theme=buefy)]([https://www.linkedin.com/in/sergioliveiira/github-readme-stats])
+Let’s collaborate and grow together! Feel free to connect with me:  
 
+<p> 
+  <a href="mailto:sergiowallace11@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/sergioliveiira" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a> 
+</p>
 
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioscker&layout=compact&show_icons=true&theme=buefy)  
