@@ -31,8 +31,6 @@ Here are some of the tools and technologies I’ve been working with recently:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,styledcomponents,materialui,nextjs,tailwind,"/>
 
-Native
-
 ### BackEnd:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres,prisma"/>
