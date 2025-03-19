@@ -29,7 +29,7 @@ Here are some of the tools and technologies I’ve been working with recently:
 
 ### FrontEnd:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,react,styledcomponents,materialui,nextjs,tailwind,"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,styledcomponents,materialui,nextjs,tailwind,"/>
 
 Native
 
