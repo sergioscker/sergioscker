@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Sérgio+Oliveira;+Full+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
-I’m a **Frontend Developer** currently living in **Portugal**, with a strong passion for technology, learning, and creating impactful digital solutions. My journey in web development began with JavaScript, and over time, I’ve expanded my skills to include modern tools and frameworks that help me build efficient and scalable applications.  
+I’m a **Full Stack Developer** currently living in **Portugal**, with a strong passion for technology, learning, and creating impactful digital solutions. My journey in web development began with JavaScript, and over time, I’ve expanded my skills to include modern tools and frameworks that help me build efficient and scalable applications.  
 
 I love doing different activities throughout the day and feeling like my time was well spent. My proactive attitude and curiosity fuel my growth, allowing me to embrace new challenges and consistently improve.  
 
